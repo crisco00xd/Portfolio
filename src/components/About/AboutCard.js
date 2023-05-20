@@ -30,7 +30,7 @@ function AboutCard() {
           <p style={{ color: "rgb(155 126 172)" }}>
           "Even when you stumble and fall, never lose sight of your resolve. It's not about how many times you fall, but how many times you rise back up. Each setback is not an end, but a new beginning, an opportunity to learn and grow stronger."{" "}
           </p>
-          <footer className="blockquote-footer">CRISTIAN</footer>
+          <footer className="blockquote-footer">Cristian J.</footer>
         </blockquote>
       </Card.Body>
     </Card>
